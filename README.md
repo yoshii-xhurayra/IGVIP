@@ -20,5 +20,5 @@ python instavip.py
 
 ### HUBUNGI KAMI : 
 [Facebook](https://www.facebook.com/BasukiNewera)           
-[Telegram](t.me/DoodStreamCatrine)             
+[Telegram](https://t.me/DoodStreamCatrine)             
     
