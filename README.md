@@ -18,7 +18,7 @@ python instavip.py
 ### RESULT:
 <p align="center"><img src="https://h.top4top.io/p_2970sfumv0.jpg">  
 
-### HUBUNGI KAMU : 
+### HUBUNGI KAMI : 
 [Facebook](https://www.facebook.com/BasukiNewera)           
 [Telegram](t.me/DoodStreamCatrine)             
     
