@@ -9,7 +9,7 @@ pkg install git
 pkg install python
 pip install requests
 rm -rf IGVIP
-git clone https://GithubCadangan/IGVIP
+git clone https://github.com/GithubCadangan/IGVIP     
 cd IGVIP
 python instavip.py   
 ```
