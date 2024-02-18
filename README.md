@@ -19,6 +19,6 @@ python instavip.py
 <p align="center"><img src="https://h.top4top.io/p_2970sfumv0.jpg">  
 
 ### HUBUNGI KAMU : 
-[Facebook](https://www.facebook.com/BasukiNewera) 
-[Telegram](t.me/DoodStreamCatrine) 
+[Facebook](https://www.facebook.com/BasukiNewera)           
+[Telegram](t.me/DoodStreamCatrine)             
     
